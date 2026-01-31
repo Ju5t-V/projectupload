@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32157259608",
+    "project_id": "kedaikita-42031",
+    "storage_bucket": "kedaikita-42031.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32157259608:android:bdfe07216d6972d1bc772d",
+        "android_client_info": {
+          "package_name": "com.example.kedai_kita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9jhgZQvBqT43Dh8VTE1ojOuuoQ6VO34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
